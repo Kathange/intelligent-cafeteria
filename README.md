@@ -1,7 +1,8 @@
 # intelligent-cafeteria
 This is a undergraduate project from Department of Computer Science and Information Engineering at Chang Gung University. The project start in 2023/07 and end in 2024/12.
-<br>
-**Abstract**
+<hr>
+
+ **Abstract**
 
 Taiwan has entered an aging society, making balanced dietary intake for the elderly extremely important. Many long-term care institutions monitor the meals taken by the elderly to evaluate their nutritional intake. However, factors such as personal preferences, age-related chewing difficulties, and excessive portion sizes can lead to food waste, resulting in actual nutrient intake being lower than expected.
 
