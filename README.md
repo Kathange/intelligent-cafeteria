@@ -6,6 +6,7 @@ The project start in 2023/07 and end in 2024/12. We have four person in group, a
 Undergradurate Project : 剩食傳說 - 3D智助餐系統
 <hr>
 
+# Project Introduction
  **Abstract**
 
 Taiwan has entered an aging society, making balanced dietary intake for the elderly extremely important. Many long-term care institutions monitor the meals taken by the elderly to evaluate their nutritional intake. However, factors such as personal preferences, age-related chewing difficulties, and excessive portion sizes can lead to food waste, resulting in actual nutrient intake being lower than expected.
@@ -22,5 +23,13 @@ The required equipment for the system includes a depth camera (Intel RealSense L
 - **Result Integration:** The identified dish types and calculated volumes are matched with data from a pre-established database, providing customers with detailed information.
 
 This system is not only applicable within long-term care institutions but, due to its lightweight and edge computing capabilities, it can also be widely deployed in various restaurants. It offers users automated dietary recording functions, while businesses can analyze food waste to understand the relationship between dining demographics and leftover food.
+
+# Web UI Code
+This is demo version\
+[buffetProject_240516](https://drive.google.com/drive/folders/1Pwr4eKatyo4bFE26JR071w2OA1Du7APz?usp=drive_link)
+
+This is final version (it delete redundant code from buffetProject240516)\
+[buffetProject_241201](https://drive.google.com/drive/folders/1F4wTsTuuHcQjv1ANcS9yVGLJcu8D9VdE?usp=drive_link)
+
 
 
