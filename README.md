@@ -4,7 +4,6 @@ This is a undergraduate project from Department of Computer Science and Informat
 The project start in 2023/07 and end in 2024/12. We have four person in group, and our advisor is YP Chao.
 
 Undergradurate Project : 剩食傳說 - 3D智助餐系統
-<hr>
 
 # Project Introduction
  **Abstract**
