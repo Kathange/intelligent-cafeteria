@@ -30,5 +30,6 @@ This is demo version\
 This is final version (it delete redundant code from buffetProject240516)\
 [buffetProject_241201](https://drive.google.com/drive/folders/1F4wTsTuuHcQjv1ANcS9yVGLJcu8D9VdE?usp=drive_link)
 
-
+# Anylabeling
+[anylabeling.md](https://github.com/Kathange/intelligent-cafeteria/anylabeling.md)
 
