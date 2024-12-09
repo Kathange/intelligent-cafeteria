@@ -25,7 +25,7 @@ This system is not only applicable within long-term care institutions but, due t
 
 # Web UI Code
 This is demo version\
-[buffetProject_240516](https://drive.google.com/drive/folders/1Pwr4eKatyo4bFE26JR071w2OA1Du7APz?usp=drive_link)
+[buffetProject_240516](https://github.com/Kathange/intelligent-cafeteria/blob/main/anylabeling.md)
 
 This is final version (it delete redundant code from buffetProject240516)\
 [buffetProject_241201](https://drive.google.com/drive/folders/1F4wTsTuuHcQjv1ANcS9yVGLJcu8D9VdE?usp=drive_link)
