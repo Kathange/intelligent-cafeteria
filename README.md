@@ -23,9 +23,14 @@ The required equipment for the system includes a depth camera (Intel RealSense L
 
 This system is not only applicable within long-term care institutions but, due to its lightweight and edge computing capabilities, it can also be widely deployed in various restaurants. It offers users automated dietary recording functions, while businesses can analyze food waste to understand the relationship between dining demographics and leftover food.
 
-# Web UI
-[webui.md](./webui.md)
-
 # Anylabeling
 [anylabeling.md](./anylabeling.md)
 
+# ngrok
+[ngrok.md](./ngrok.md)
+
+# Line Bot (Use Flask)
+[linebot.md](./linebot.md)
+
+# Web UI (Use Django)
+[webui.md](./webui.md)
