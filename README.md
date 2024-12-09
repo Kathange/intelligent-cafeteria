@@ -23,12 +23,8 @@ The required equipment for the system includes a depth camera (Intel RealSense L
 
 This system is not only applicable within long-term care institutions but, due to its lightweight and edge computing capabilities, it can also be widely deployed in various restaurants. It offers users automated dietary recording functions, while businesses can analyze food waste to understand the relationship between dining demographics and leftover food.
 
-# Web UI Code
-This is demo version\
-[buffetProject_240516](./anylabeling.md)
-
-This is final version (it delete redundant code from buffetProject240516)\
-[buffetProject_241201](https://drive.google.com/drive/folders/1F4wTsTuuHcQjv1ANcS9yVGLJcu8D9VdE?usp=drive_link)
+# Web UI
+[webui.md](./webui.md)
 
 # Anylabeling
 [anylabeling.md](./anylabeling.md)
