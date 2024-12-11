@@ -1,13 +1,13 @@
 # intelligent-cafeteria
-This is a undergraduate project from Department of Computer Science and Information Engineering at Chang Gung University.
-
-The project start in 2023/07 and end in 2024/12. We have four person in group, and our advisor is YP Chao.
-
+This is a undergraduate project from Department of Computer Science and Information Engineering at Chang Gung University.\
+The project start in 2023/07 and end in 2024/12.\
+We have four person in group : Xin An Wang, Wei Ting Chen, Yi Hsuan Wang, You Chen Liang.\
+And our advisor is YP Chao.\
 Undergradurate Project : 剩食傳說 - 3D智助餐系統
+
 
 # Project Introduction
  **Abstract**
-
 Taiwan has entered an aging society, making balanced dietary intake for the elderly extremely important. Many long-term care institutions monitor the meals taken by the elderly to evaluate their nutritional intake. However, factors such as personal preferences, age-related chewing difficulties, and excessive portion sizes can lead to food waste, resulting in actual nutrient intake being lower than expected.
 
 Our 3D Intelligent Cafeteria System consists of a depth camera, edge computing device, and card reader. Customers simply place their self-served trays on our rack and press the capture button. The system then takes a photo and captures depth information. The photo undergoes semantic segmentation to identify the types and positions of the food items. Subsequently, the depth at each identified position is integrated to determine the volume of each dish. By matching this data with the Ministry of Health and Welfare's food calorie database, the system can calculate the price, calories, and other nutritional components of each dish.
@@ -23,10 +23,28 @@ The required equipment for the system includes a depth camera (Intel RealSense L
 
 This system is not only applicable within long-term care institutions but, due to its lightweight and edge computing capabilities, it can also be widely deployed in various restaurants. It offers users automated dietary recording functions, while businesses can analyze food waste to understand the relationship between dining demographics and leftover food.
 
-# Build Project in Detailed
 
+# Books
+### 需求規格書
+[Software Requirements Specification](https://google.com)    (先指向google，之後再補上)
+### 設計文件書
+[Software Design Document](https://google.com)    (先指向google，之後再補上)
+### 測試計劃書
+[Test Plan Document](https://google.com)    (先指向google，之後再補上)
+
+
+# Build Project in Detailed
 ### Anylabeling
 [anylabeling.md](./anylabeling.md)
+
+### Unet Training
+[unet.md](./unet.md)
+
+### Intel Realsense L515 Depth Camera
+[L515.md](./L515.md)
+
+### Arduino
+[arduino.md](./arduino.md)
 
 ### ngrok
 [ngrok.md](./ngrok.md)
